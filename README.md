@@ -33,4 +33,4 @@ Random Forest Classifier
 ## What did we learn from this project?
 
 ## References
-
+https://towardsdatascience.com/fake-news-detector-with-deep-learning-approach-part-i-eda-757f5c052 
