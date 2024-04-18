@@ -34,3 +34,5 @@ Random Forest Classifier
 
 ## References
 https://towardsdatascience.com/fake-news-detector-with-deep-learning-approach-part-i-eda-757f5c052 
+https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1754&context=honors201019 
+https://www.geeksforgeeks.org/fake-news-detection-using-machine-learning/
