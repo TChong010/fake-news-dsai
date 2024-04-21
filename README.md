@@ -3,7 +3,7 @@ Fake News Detection Mini-Project for SC1015 - Introduction to Data Science and A
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the detection of fake news from this specific [Kaggle Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data ). \
-Since the dataset is too large, it cannot be uploaded to github but a subset of the unprocessed and processed dataset is provided.
+Since the dataset is too large, it cannot be uploaded to github but a subset of the processed datasets are provided.
 
 ## Contents
 Data Extraction \
