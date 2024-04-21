@@ -2,7 +2,7 @@
 Fake News Detection Mini-Project for SC1015 - Introduction to Data Science and Artificial Intelligence
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the detection of fake news from this specific [Kaggle Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data ). Since the dataset is too large, it cannot be uploaded to github but a sample is provided.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the detection of fake news from this specific [Kaggle Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data ). \ Since the dataset is too large, it cannot be uploaded to github but a sample OF first 5000 rows is provided.
 
 ## Contents
 Data Extraction \
@@ -10,7 +10,7 @@ Data Cleaning \
 Data Visualization \
 Data Approach \
 Naive Bayes Classifier \
-Random Forest Classifier \
+Random Forest Classifier 
 
 ## Contributors
 tinghao - Data Extraction, Data Cleaning, TFIDF, Bag of Words \
