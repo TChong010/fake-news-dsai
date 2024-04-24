@@ -7,6 +7,7 @@ Since the dataset is too large, it cannot be uploaded to github but a subset of 
 
 ## Contents
 Data Cleaning \
+Data Visualization \
 Using TFIDF \
 Using Word Count \
 Classifying: Naive Bayes \
