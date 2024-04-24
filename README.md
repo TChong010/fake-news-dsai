@@ -25,7 +25,7 @@ Are we able to accurately detect fake news based on its contents? (Accuracy > 0.
 Which approaches and model have the best results?
 
 ## Approaches
-Bag of Words \
+Word Count (Bag of Words) \
 TF-IDF (Term Frequency - Inverse Document Frequency)
 
 ## Models Used
@@ -33,19 +33,19 @@ Naive Bayes Classifier \
 Random Forest Classifier
 
 ## Conclusion
-* TFIDF is a better method for Random Forest while Word Count is a better method for Naive Bayes \
-* Lemmatization, removing named entities have little effects on model accuracy \
-* Random Forest Model did very well in predicting if an article is fake or real (best accuracy: around 95.6% using TFIDF and no optimizations) \
-* Naive Bayes Model also did quite well in predicting if an article is fake or real, however it is less accurate than Random Forest (best accuracy: around 88.2% using Word Count, with NER and best hyperparameter settings) \
-* Our best performing model is the Random Forest Model using TFIDF and no optimizations \
+* TFIDF is a better method for Random Forest while Word Count is a better method for Naive Bayes 
+* Lemmatization, removing named entities have little effects on model accuracy 
+* Random Forest Model did very well in predicting if an article is fake or real (best accuracy: around 95.6% using TFIDF and no optimizations) 
+* Naive Bayes Model also did quite well in predicting if an article is fake or real, however it is less accurate than Random Forest (best accuracy: around 88.2% using Word Count, with NER and best hyperparameter settings) 
+* Our best performing model is the Random Forest Model using TFIDF and no optimizations 
 * Yes, we can predict if an article is fake or not based on its contents
 
 ## What did we learn from this project?
-* Naive Bayes and Random Forest Classifiers from sklearn \
-* Concepts of lemmatization, named entities, stopwords, TFIDF, hyperparameters \
-* Using GridSearch and Cross Validation to find best hyperparameters for specific model and dataset \
-* Processing documents into data (TFIDF and Word Count) for model usage \
-* Word visualization techniques such as Word Clouds \
+* Naive Bayes and Random Forest Classifiers from sklearn 
+* Concepts of lemmatization, named entities, stopwords, TFIDF, hyperparameters 
+* Using GridSearch and Cross Validation to find best hyperparameters for specific model and dataset 
+* Processing documents into data (TFIDF and Word Count) for model usage 
+* Word visualization techniques such as Word Clouds 
 * Libraries: nltk and spaCY
 
 ## References
