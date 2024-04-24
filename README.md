@@ -35,7 +35,7 @@ Random Forest Classifier
 
 ## Conclusion
 * TFIDF is a better method for Random Forest while Word Count is a better method for Naive Bayes 
-* Efforts to improve our model via Lemmatization and removing named entities have little effects on model accuracy (<1% difference in accuracy)
+* Efforts to improve our model via Lemmatization and removing named entities have little effects on model accuracy and generally gave worse results, perhaps due to context being removed
 * Random Forest Model did very well in predicting if an article is fake or real (best accuracy: around 95.6% using TFIDF and no optimizations) 
 * Naive Bayes Model also did quite well in predicting if an article is fake or real, however it is less accurate than Random Forest (best accuracy: around 88.2% using Word Count, with NER and best hyperparameter settings) 
 * Our best performing model is the Random Forest Model using TFIDF and no optimizations 
