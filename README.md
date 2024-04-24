@@ -6,15 +6,18 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 Since the dataset is too large, it cannot be uploaded to github but a subset of the processed datasets are provided.
 
 ## Contents
-Data Extraction \
 Data Cleaning \
-Data Visualization \
-Data Approach \
-Naive Bayes Classifier \
-Random Forest Classifier 
+Using TFIDF \
+Using Word Count \
+Classifying: Naive Bayes \
+Classifying: Random Forest \
+Optimizing: Lemmatization \
+Optimizing: Named Entity Recognition \
+Optimizing: Lemmatization + NER \
+Optimizing: Finding Best Hyperparameter
 
 ## Contributors
-tinghao - Data Extraction, Data Cleaning, TFIDF, Bag of Words \
+tinghao - Data Extraction, Data Cleaning, TFIDF, Bag of Words, Optimization \
 darrel - Data Visualization, Naive Bayes Classifier, Random Forest Classifier
 
 ## Problem Definition
